@@ -13,3 +13,6 @@ Whenever a user submits a burger’s name, the app will display the burger on th
 Each burger in the waiting area will have a ‘Devour it!’ button. When the user clicks it, the burger will move to the right of the page.
 
 The app stores every burger in a database, whether devoured or not.
+ 
+
+![Yummy!](https://raw.githubusercontent.com/chinedu2moses/chinedu-burger-app/master/public/assets/img/Capture.PNG)
