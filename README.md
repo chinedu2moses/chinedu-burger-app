@@ -1,6 +1,6 @@
 # Burger-App — Node, Express, Handlebars
 Home Work assignment for Coding Bootcamp at Vanderbilt University
-For this assignment, I created a burger logger with MySQL, Node, Express, Handlebars, and a homemade ORM.
+In this assignment, I created a burger logger with MySQL, Node, Express, Handlebars, and a homemade ORM.
 
 I also deployed my app to Heroku for web hosting.
 
